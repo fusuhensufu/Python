@@ -1,0 +1,9 @@
+# Python.gitignore
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env/
+*.log
+# 只忽略VS Code临时文件，保留工作区配置
+.vscode/tempCodeRunnerFile.*
